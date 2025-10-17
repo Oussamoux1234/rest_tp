@@ -12,17 +12,16 @@ Il illustre la création, la lecture, la mise à jour et la suppression (CRUD) d
 ## 🚀 Structure du Projet
 
 ```
-```
-ma.emsi.restfull_tp
+.emsi.restfull_tp
 ┣ 📂 controller
 ┃ ┗ 📄 UserController.java
 ┣ 📂 model
 ┃ ┗ 📄 User.java
 ┗ 📂 service
-┗ 📄 UserService.java
+┃ ┗ 📄 UserService.java
+```
 
-```
-```
+---
 ## ⚙️ Technologies Utilisées
 
 - ☕ **Java 17+**
