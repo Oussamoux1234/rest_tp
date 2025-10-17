@@ -1,7 +1,7 @@
 
----
 
-```markdown
+
+
 # 🧩 Service Web RESTful – TP Spring Boot
 
 Ce projet est une **API RESTful** développée avec **Spring Boot** dans le cadre d’un **travail pratique (TP)** sur les **services web**.  
@@ -12,7 +12,7 @@ Il illustre la création, la lecture, la mise à jour et la suppression (CRUD) d
 ## 🚀 Structure du Projet
 
 ```
-````
+```
 ma.emsi.restfull_tp
 ┣ 📂 controller
 ┃ ┗ 📄 UserController.java
@@ -21,10 +21,8 @@ ma.emsi.restfull_tp
 ┗ 📂 service
 ┗ 📄 UserService.java
 
-````
-
----
-
+```
+```
 ## ⚙️ Technologies Utilisées
 
 - ☕ **Java 17+**
@@ -49,7 +47,9 @@ ma.emsi.restfull_tp
 
 ## 🧍‍♂️ Exemple de Données
 
-```json
+```
+
+json
 [
   { "id": 1, "nom": "Mohammed", "mail": "mhd@mail.com" },
   { "id": 2, "nom": "Moad", "mail": "moad@mail.com" },
